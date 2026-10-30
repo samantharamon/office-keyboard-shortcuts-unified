@@ -13,7 +13,7 @@
     "dev-server": "webpack serve --mode development",
     "start": "office-addin-debugging start manifest.json",
     "stop": "office-addin-debugging stop manifest.json",
-    "validate": "office-addin-manifest validate manifest.json",
+    "validate": "office-addin-manifest validate manifest.json"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^14.0.0",
